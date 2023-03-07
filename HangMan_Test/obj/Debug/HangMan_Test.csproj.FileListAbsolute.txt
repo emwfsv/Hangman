@@ -1,0 +1,11 @@
+C:\GitProjects\HangMan\HangMan_Test\obj\Debug\HangMan_Test.csproj.AssemblyReference.cache
+C:\GitProjects\HangMan\HangMan_Test\obj\Debug\HangMan_Test.csproj.CoreCompileInputs.cache
+C:\GitProjects\HangMan\HangMan_Test\bin\Debug\InputFiles\Ord.txt
+C:\GitProjects\HangMan\HangMan_Test\bin\Debug\HangMan_Test.dll
+C:\GitProjects\HangMan\HangMan_Test\bin\Debug\HangMan_Test.pdb
+C:\GitProjects\HangMan\HangMan_Test\bin\Debug\HangMan.exe
+C:\GitProjects\HangMan\HangMan_Test\bin\Debug\HangMan.pdb
+C:\GitProjects\HangMan\HangMan_Test\bin\Debug\HangMan.exe.config
+C:\GitProjects\HangMan\HangMan_Test\obj\Debug\HangMan_Test.csproj.CopyComplete
+C:\GitProjects\HangMan\HangMan_Test\obj\Debug\HangMan_Test.dll
+C:\GitProjects\HangMan\HangMan_Test\obj\Debug\HangMan_Test.pdb
